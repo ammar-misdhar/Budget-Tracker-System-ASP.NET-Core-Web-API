@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MmQO6bLbeilX/a9rUTcU8StzXnnj6/QCs3+uiujpez4=",
+  "Source": "PersonalBudgetTrackerAPI",
+  "BasePath": "_content/PersonalBudgetTrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
